@@ -24,3 +24,8 @@ http://themvcclub.blogspot.com/2015/05/simple-first-jquerymobile-app-for-for-and
 ###<a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
 
 
+<div style="direction: rtl;">
+פיתוח: כרמל שוורצמן</div>
+
+
+
